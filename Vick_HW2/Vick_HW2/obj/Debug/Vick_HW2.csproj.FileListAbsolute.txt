@@ -1,0 +1,9 @@
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW2\Vick_HW2\bin\Debug\Vick_HW2.exe.config
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW2\Vick_HW2\bin\Debug\Vick_HW2.exe
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW2\Vick_HW2\bin\Debug\Vick_HW2.pdb
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW2\Vick_HW2\obj\Debug\Vick_HW2.csprojResolveAssemblyReference.cache
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW2\Vick_HW2\obj\Debug\Vick_HW2.Form1.resources
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW2\Vick_HW2\obj\Debug\Vick_HW2.Properties.Resources.resources
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW2\Vick_HW2\obj\Debug\Vick_HW2.csproj.GenerateResource.Cache
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW2\Vick_HW2\obj\Debug\Vick_HW2.exe
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW2\Vick_HW2\obj\Debug\Vick_HW2.pdb

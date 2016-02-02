@@ -1,0 +1,6 @@
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick HW 5\Vick HW 5\bin\Debug\Vick HW 5.exe.config
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick HW 5\Vick HW 5\bin\Debug\Vick HW 5.exe
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick HW 5\Vick HW 5\bin\Debug\Vick HW 5.pdb
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick HW 5\Vick HW 5\obj\Debug\Vick HW 5.exe
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick HW 5\Vick HW 5\obj\Debug\Vick HW 5.pdb
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick HW 5\Vick HW 5\obj\Debug\Vick HW 5.csprojResolveAssemblyReference.cache

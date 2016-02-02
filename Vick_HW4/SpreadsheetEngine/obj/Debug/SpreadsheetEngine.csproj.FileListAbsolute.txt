@@ -1,0 +1,5 @@
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\Vick_HW4\bin\Debug\Vick_HW4.exe.config
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\Vick_HW4\obj\Debug\Vick_HW4.exe
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\Vick_HW4\obj\Debug\Vick_HW4.pdb
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\Vick_HW4\bin\Debug\Vick_HW4.exe
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\Vick_HW4\bin\Debug\Vick_HW4.pdb
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\Vick_HW4\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\Vick_HW4\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\Vick_HW4\obj\Debug\HW4.csprojResolveAssemblyReference.cache
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\Vick_HW4\obj\Debug\Vick_HW4.Form1.resources
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\Vick_HW4\obj\Debug\Vick_HW4.Properties.Resources.resources
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW4\Vick_HW4\obj\Debug\HW4.csproj.GenerateResource.Cache

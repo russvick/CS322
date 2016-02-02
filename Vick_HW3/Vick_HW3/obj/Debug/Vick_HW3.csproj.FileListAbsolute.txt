@@ -1,0 +1,9 @@
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW3\Vick_HW3\bin\Debug\Vick_HW3.exe.config
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW3\Vick_HW3\bin\Debug\Vick_HW3.exe
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW3\Vick_HW3\bin\Debug\Vick_HW3.pdb
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW3\Vick_HW3\obj\Debug\Vick_HW3.Form1.resources
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW3\Vick_HW3\obj\Debug\Vick_HW3.Properties.Resources.resources
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW3\Vick_HW3\obj\Debug\Vick_HW3.csproj.GenerateResource.Cache
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW3\Vick_HW3\obj\Debug\Vick_HW3.exe
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW3\Vick_HW3\obj\Debug\Vick_HW3.pdb
+C:\Users\Savvy\Desktop\GitHub\Project-Euler\Vick_HW3\Vick_HW3\obj\Debug\Vick_HW3.csprojResolveAssemblyReference.cache
